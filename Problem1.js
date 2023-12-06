@@ -1,5 +1,5 @@
 // link for codechef problem
-// https://www.codechef.com/viewsolution/1033441197
+// https://www.codechef.com/viewsolution/1033449096
 // incase Link doest'nt work
 
 const readline = require('readline');
